@@ -6,7 +6,7 @@ A Node JS Application that uses MySQL to host a database for a company. This dat
 
 ## Screenshot
 
-
+![Screenshot 2023-01-16 143048](https://user-images.githubusercontent.com/112663656/212753808-78cdcc55-5e8e-4974-aa51-7805cb46908f.png)
 
 ## Demo Vid
 
