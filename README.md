@@ -43,7 +43,7 @@ with the capability to view and manage departments, roles, and employees in thei
 - [Screenshot](#screenshot)
 - [Demo Video](#demo)
 - [License](#license)
-- [Questions?](#questions?)
+- [Questions?](#quest)
 
 ## Screenshot
 
@@ -73,7 +73,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 THE SOFTWARE.
 </pre>
 
-## Questions?
+## Questions? <a name="quest"></a>
 
 If you have any questions, please reach out to me using one of the following:
 
