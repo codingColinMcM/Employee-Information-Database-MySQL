@@ -36,6 +36,15 @@ information, the employee is added to the database.
 By following these steps, I have developed a command-line application that fulfills the requirements of the user story. This application provides business owners 
 with the capability to view and manage departments, roles, and employees in their company, enabling them to effectively organize and plan their business.
 
+## Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Demo Video](#demo)
+- [License](#license)
+- [Questions?](#questions?)
+
 ## Screenshot
 
 ![Screenshot 2023-01-16 143048](https://user-images.githubusercontent.com/112663656/212753808-78cdcc55-5e8e-4974-aa51-7805cb46908f.png)
