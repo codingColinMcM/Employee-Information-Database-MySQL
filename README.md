@@ -1,4 +1,4 @@
-# Employee Tracker
+# Employee-Information-Database-MySQL
 
 ## Description
 
