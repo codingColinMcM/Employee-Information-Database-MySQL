@@ -66,6 +66,33 @@ The server.js file is the main entry point of the application. It establishes a 
 
 Overall, this application's main directory contains the necessary files for setting up and interacting with a MySQL database. The schema.sql file defines the database structure, the seeds.sql file provides optional seed data, and the server.js file establishes the database connection and enables user prompts using the inquirer library. The LICENSE and README.md files provide legal and informational documentation for the application.
 
+
+## Installation 
+
+To run this project, install the necessary npm packages:
+
+```
+npm i inquirer@8.2.4 mysql2 console.table
+
+```
+
+## Usage
+
+To set up the data base to be populated with the seed data, execute the following commands:
+
+```
+mysql -u root -p
+source db/schema.sql
+source db/seeds.sql
+quit
+```
+
+Finally, you can run the application using the command: 
+
+```
+npm run server.js
+```
+
 ## Screenshot
 
 ![Screenshot 2023-01-16 143048](https://user-images.githubusercontent.com/112663656/212753808-78cdcc55-5e8e-4974-aa51-7805cb46908f.png)
