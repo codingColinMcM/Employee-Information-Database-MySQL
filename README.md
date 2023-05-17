@@ -45,6 +45,27 @@ with the capability to view and manage departments, roles, and employees in thei
 - [License](#license)
 - [Questions?](#quest)
 
+## Overview 
+
+The application is organized as follows:
+
+
+* db folder: Contains the schema.sql file, which defines the initial structure of the MySQL database, and the seeds.sql file, which contains seed data for populating the database.
+** schema.sql: This file defines the structure of the MySQL database, including tables, columns, and relationships. It serves as the initial setup for the database.
+** seeds.sql: This file contains seed data that can be used to populate the database with predefined information. Seed data can be used for testing or providing initial data for the application.
+* LICENSE: This file includes the license agreement for the application.
+* README.md: This file serves as the README, providing instructions and information about the application.
+* server.js: This file establishes a connection to the MySQL database and imports the inquirer library, which enables user prompts.
+The db folder contains the following files:
+
+The LICENSE file contains the license agreement for the application. It specifies the terms and conditions for using and distributing the code.
+
+The README.md file provides comprehensive information about the application. It includes installation instructions, usage guidelines, and any other relevant details for developers and users.
+
+The server.js file is the main entry point of the application. It establishes a connection to the MySQL database, allowing the application to interact with it. It also imports the inquirer library, which provides functionality for prompting the user with interactive questions or options.
+
+Overall, this application's main directory contains the necessary files for setting up and interacting with a MySQL database. The schema.sql file defines the database structure, the seeds.sql file provides optional seed data, and the server.js file establishes the database connection and enables user prompts using the inquirer library. The LICENSE and README.md files provide legal and informational documentation for the application.
+
 ## Screenshot
 
 ![Screenshot 2023-01-16 143048](https://user-images.githubusercontent.com/112663656/212753808-78cdcc55-5e8e-4974-aa51-7805cb46908f.png)
