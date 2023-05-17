@@ -51,8 +51,8 @@ The application is organized as follows:
 
 
 * db folder: Contains the schema.sql file, which defines the initial structure of the MySQL database, and the seeds.sql file, which contains seed data for populating the database.
-** schema.sql: This file defines the structure of the MySQL database, including tables, columns, and relationships. It serves as the initial setup for the database.
-** seeds.sql: This file contains seed data that can be used to populate the database with predefined information. Seed data can be used for testing or providing initial data for the application.
+  * schema.sql: This file defines the structure of the MySQL database, including tables, columns, and relationships. It serves as the initial setup for the database.
+  * seeds.sql: This file contains seed data that can be used to populate the database with predefined information. Seed data can be used for testing or providing initial data for the application.
 * LICENSE: This file includes the license agreement for the application.
 * README.md: This file serves as the README, providing instructions and information about the application.
 * server.js: This file establishes a connection to the MySQL database and imports the inquirer library, which enables user prompts.
