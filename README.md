@@ -97,9 +97,9 @@ npm run server.js
 
 ![Screenshot 2023-01-16 143048](https://user-images.githubusercontent.com/112663656/212753808-78cdcc55-5e8e-4974-aa51-7805cb46908f.png)
 
-## Demo Vid
+## Demo Video
 
-https://drive.google.com/file/d/1Ru1HgPWMflV5q_3wtXiLwdxUPVTR_oOe/view?usp=share_link
+<a href="https://drive.google.com/file/d/1Ru1HgPWMflV5q_3wtXiLwdxUPVTR_oOe/view?usp=share_link">Employee Information Database Demonstration</a>
 
 ## License
 
