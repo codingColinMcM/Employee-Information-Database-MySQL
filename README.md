@@ -1,7 +1,5 @@
 # Employee-Information-Database-MySQL
 
-I'm doing HackerRank exercises
-
 ## Description
 
 ### Problem:
