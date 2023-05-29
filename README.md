@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I'm doing 
+I'm doing HackerRank
 
 ## Description
 
