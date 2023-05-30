@@ -1,7 +1,5 @@
 # Employee-Information-Database-MySQL
 
-I reformat my resume
-
 ## Description
 
 ### Problem:
