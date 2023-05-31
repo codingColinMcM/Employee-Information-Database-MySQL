@@ -1,7 +1,5 @@
 # Employee-Information-Database-MySQL
 
-I hope I get a job soon 
-
 ## Description
 
 ### Problem:
