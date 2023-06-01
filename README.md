@@ -1,7 +1,5 @@
 # Employee-Information-Database-MySQL
 
-I really need to focus
-
 ## Description
 
 ### Problem:
