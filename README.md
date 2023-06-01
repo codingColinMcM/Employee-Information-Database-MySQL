@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I really need
+I really need to focus
 
 ## Description
 
