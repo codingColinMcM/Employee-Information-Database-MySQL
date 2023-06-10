@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am watching the nba finals right
+I am watching the nba finals right now
 
 ## Description
 
