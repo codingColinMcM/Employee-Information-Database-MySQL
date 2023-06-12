@@ -1,5 +1,5 @@
 # Employee-Information-Database-MySQL
-I am upset that 
+I am upset that the 
 
 ## Description
 
