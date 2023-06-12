@@ -1,5 +1,4 @@
 # Employee-Information-Database-MySQL
-I am upset that the cancellation fee still applies but it is what it is :/
 
 ## Description
 
