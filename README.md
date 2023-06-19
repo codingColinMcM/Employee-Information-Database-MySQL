@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I'm  really happy with the progress on my 
+I'm  really happy with the progress on my portfolio
 
 ## Description
 
