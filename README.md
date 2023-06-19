@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I'm
+I'm  really
 
 ## Description
 
@@ -8,7 +8,7 @@ I'm
 
 Business owners need to view and manage information about departments, roles, and employees in their company. An application is needed that offers options to view 
 all departments, roles, and employees in a formatted table, as well as the ability to add departments, roles, and employees. Furthermore, the application has to 
-provide functionality to update an employee's role in the database.
+provide the functionality to update an employee's role in the database.
 
 ### Solution:
 To fulfill the requirements of the business owner, I developed a command-line application using Node.js and the MySQL2 package. This application allows users to 
