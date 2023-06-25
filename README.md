@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am watching a Charisma on Command
+I am watching a Charisma on Command about
 
 ## Description
 
