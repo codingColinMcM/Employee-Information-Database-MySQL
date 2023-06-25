@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am watching a Charisma on Command about Bree Larson and learned that 
+I am watching a Charisma on Command about Bree Larson and learned that some 
 
 ## Description
 
