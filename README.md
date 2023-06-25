@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am watching a Charisma on Command about Bree
+I am watching a Charisma on Command about Bree Larson
 
 ## Description
 
