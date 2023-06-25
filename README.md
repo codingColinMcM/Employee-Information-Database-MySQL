@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am watching 
+I am watching a 
 
 ## Description
 
