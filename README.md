@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I really don't like this 
+I really don't like this study
 
 ## Description
 
