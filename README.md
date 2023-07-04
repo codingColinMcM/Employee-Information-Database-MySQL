@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I really don't like this study guide it is very confusingly worded I 
+I really don't like this study guide it is very confusingly worded I also
 
 ## Description
 
