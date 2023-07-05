@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-Well, regardless 
+Well, regardless of 
 
 ## Description
 
