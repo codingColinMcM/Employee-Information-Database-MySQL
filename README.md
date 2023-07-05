@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-Well, regardless of if I needed to study the C# section of the study guide I 
+Well, regardless of if I needed to study the C# section of the study guide I have 
 
 ## Description
 
