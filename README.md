@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-Well, regardless of if I needed
+Well, regardless of if I needed to 
 
 ## Description
 
