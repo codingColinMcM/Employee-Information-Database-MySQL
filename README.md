@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am sorry my lord for taking my living situation for granted. I want this opportunity with 
+I am sorry my lord for taking my living situation for granted. I want this opportunity with Revature
 
 ## Description
 
