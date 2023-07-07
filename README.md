@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am sorry my lord for taking
+I am sorry my lord for taking my
 
 ## Description
 
