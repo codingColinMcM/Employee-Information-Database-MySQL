@@ -1,7 +1,5 @@
 # Employee-Information-Database-MySQL
 
-I really hope this phone call with Kris goes well tomorrow. I really want to get my professional career started
-
 ## Description
 
 ### Problem:
