@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I really hope this phone call with Kris goes
+I really hope this phone call with Kris goes well
 
 ## Description
 
