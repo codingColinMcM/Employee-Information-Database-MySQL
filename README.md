@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am hoping Smoothstack is actually legit and that JPMorgan and Chase will seriously
+I am hoping Smoothstack is actually legit and that JPMorgan and Chase will seriously consider
 
 ## Description
 
