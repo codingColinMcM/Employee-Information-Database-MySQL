@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am hoping Smoothstack
+I am hoping Smoothstack is 
 
 ## Description
 
