@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am hoping Smoothstack is actually
+I am hoping Smoothstack is actually legit
 
 ## Description
 
