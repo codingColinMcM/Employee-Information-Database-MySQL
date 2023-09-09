@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-Revature has
+Revature has been
 
 ## Description
 
