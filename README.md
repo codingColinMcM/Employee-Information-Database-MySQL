@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-Revature has been moving along lately. I really should be asking questions about what the next steps in the employment pipeline look like. CHICKEN
+Revature has been moving along lately. I really should be asking questions about what the next steps in the employment pipeline look like. CHICKEN WING 
 ## Description
 
 ### Problem:
