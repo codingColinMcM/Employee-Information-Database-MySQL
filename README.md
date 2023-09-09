@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-Revature has been moving along lately. I really should be asking questions
+Revature has been moving along lately. I really should be asking questions about
 
 ## Description
 
