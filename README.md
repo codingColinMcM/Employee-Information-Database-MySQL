@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-Revature has been moving along lately. I really 
+Revature has been moving along lately. I really should
 
 ## Description
 
