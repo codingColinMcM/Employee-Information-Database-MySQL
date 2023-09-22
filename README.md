@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am currently at the tail end
+I am currently at the tail end of
 
 ## Description
 
