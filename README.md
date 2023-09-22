@@ -1,6 +1,6 @@
 # Employee-Information-Database-MySQL
 
-I am currently at the tail end of a Revature lecture. The topic is Multithreading. It is reviewing
+I am currently at the tail end of a Revature lecture. The topic is Multithreading. It is reviewing some
 
 ## Description
 
