@@ -1,5 +1,3 @@
-urgkjk ygjhkj kjhjkj
-
 # Employee-Information-Database-MySQL
 
 ## Description
