@@ -1,4 +1,4 @@
-hhhhhh hhhhhh hhhhhh
+
 # Employee-Information-Database-MySQL
 
 ## Description
